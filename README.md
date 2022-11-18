@@ -5,7 +5,7 @@ This Portfolio is a small project using HTML / CSS and Bootstrap. I will be usin
 [Live Server Link](https://Portfolio-2.theju2222.repl.co)
 
 ## Screenshot:
- ![THEJAS PORTFOLIO](Screenshot 2022-11-18 at 1.15.20 PM.png)
+ [THEJAS PORTFOLIO](Screenshot 2022-11-18 at 1.15.20 PM.png)
 
 
 ## Technologies Used
