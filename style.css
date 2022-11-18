@@ -69,6 +69,9 @@ ABOUT
   font-size:2.5vw;
 
 }
+#projects .projects{
+  width: 100%;
+}
 
 #about div.about-content button,
 #projects .project button {
@@ -159,9 +162,10 @@ Skills
 #projects .project {
   display: flex;
   line-height: 1.9;
+  width: 100%;
 }
 #projects .project .proj-desc {
-  width: 70%;
+  width: 60%;
 }
 #projects .project .proj-img img {
   width: 90%;
@@ -171,7 +175,7 @@ Skills
 #projects .project .proj-img {
     border-radius: 18px;
     overflow: hidden;
-    width: 70%;
+    width: 40%;
     /* border: 1px solid #303030; */
 }
 .proj-title{
@@ -193,6 +197,7 @@ h3{
   #projects .project {
     flex-direction: column-reverse;
     justify-content: center;
+
   }
   header a {
     font-size: 15px;
@@ -284,3 +289,9 @@ contact
   width: 40px;
   margin:20px  10px;
 }
+video.project-video {
+  width: 100%;
+  height: 100%;
+  background-color: black;
+}
+
